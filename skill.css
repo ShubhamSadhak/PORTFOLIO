@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+.a
+{   
+    padding-left: 1cm;
+    color: white;
+}
+.b
+{   
+    padding-left: 1cm;
+    color: white;
+}
+.c
+{   
+    padding-left: 1cm;
+    color: white;
+}
+.lang
+{
+    padding-left: 2cm;
+    padding-top: 2cm;
+    color: white;
+}
+.l
+{   padding-left: 2cm;
+    color: white;
+}
+.code
+{
+    padding-left: 2cm;
+    color: white;
+}
+.landc
+{
+    padding-left: 2cm;
+}
+body
+{
+    background :url('bg.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:centre;
+}

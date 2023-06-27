@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@100&display=swap');
+.about
+{
+        margin-top: 2cm;
+        margin-left: 2cm;
+        margin-right: 2cm; 
+        color:whitesmoke;
+}
+body
+{
+    background: url('bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center
+}

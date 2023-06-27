@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+.img
+{
+    
+    padding-left: 5cm;
+    padding-top: 5cm;
+}
+.a
+{
+    color:white;
+}
+.b
+{
+    color:white
+}
+.c
+{
+    color:white
+}
+.d
+{
+    color:white
+}
+body
+{
+    background :url('bg.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:centre;
+}

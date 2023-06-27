@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+.edu
+{  
+    padding-left: 12cm;
+    padding-top: 3cm;
+    color: white;
+
+}
+.e2
+{
+    padding-left: 2cm;
+    padding-right: 2cm;
+    color: white;
+}
+body
+{
+    background :url('bg.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:centre;
+}

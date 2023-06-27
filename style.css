@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+.img
+{
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-top: 1.3cm;
+    padding-left: 9cm;
+}
+.name
+{
+    color: blanchedalmond;
+    margin-top: 1.3cm;
+    margin-left: 12cm;
+}
+body
+{
+    background: url('bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center
+}
